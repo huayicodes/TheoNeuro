@@ -1,0 +1,6 @@
+L for the 3 models: 
+exp: -1.679047035594888e+04
+quad: -3.154878048520439e+04
+smooth: -inf 
+
+Best model is exp. f(b) = 6.915224177077027
